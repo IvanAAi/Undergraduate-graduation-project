@@ -1,2 +1,2 @@
 # Undergraduate-graduation-project
-Recommendation system based on KNN algorithm and SVD algorithm
+ A video game recommendation system based on KNN and SVD algorithm
